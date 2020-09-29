@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hyre-starships/precache-manifest.735e03c42d8271da9322b5af18b4cfbc.js"
+  "/hyre-starships/precache-manifest.f27b4bbbd58d74837b3c6ff8958ddb8a.js"
 );
 
 self.addEventListener('message', (event) => {

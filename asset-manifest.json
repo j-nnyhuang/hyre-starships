@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/hyre-starships/static/css/main.5963e852.chunk.css",
-    "main.js": "/hyre-starships/static/js/main.d65b9f86.chunk.js",
-    "main.js.map": "/hyre-starships/static/js/main.d65b9f86.chunk.js.map",
+    "main.js": "/hyre-starships/static/js/main.17479851.chunk.js",
+    "main.js.map": "/hyre-starships/static/js/main.17479851.chunk.js.map",
     "runtime-main.js": "/hyre-starships/static/js/runtime-main.6cf89b49.js",
     "runtime-main.js.map": "/hyre-starships/static/js/runtime-main.6cf89b49.js.map",
-    "static/js/2.fce9b736.chunk.js": "/hyre-starships/static/js/2.fce9b736.chunk.js",
-    "static/js/2.fce9b736.chunk.js.map": "/hyre-starships/static/js/2.fce9b736.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/hyre-starships/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4f576a68.chunk.js": "/hyre-starships/static/js/2.4f576a68.chunk.js",
+    "static/js/2.4f576a68.chunk.js.map": "/hyre-starships/static/js/2.4f576a68.chunk.js.map",
     "index.html": "/hyre-starships/index.html",
-    "precache-manifest.735e03c42d8271da9322b5af18b4cfbc.js": "/hyre-starships/precache-manifest.735e03c42d8271da9322b5af18b4cfbc.js",
+    "precache-manifest.f27b4bbbd58d74837b3c6ff8958ddb8a.js": "/hyre-starships/precache-manifest.f27b4bbbd58d74837b3c6ff8958ddb8a.js",
     "service-worker.js": "/hyre-starships/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/hyre-starships/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5963e852.chunk.css.map": "/hyre-starships/static/css/main.5963e852.chunk.css.map",
-    "static/js/2.fce9b736.chunk.js.LICENSE.txt": "/hyre-starships/static/js/2.fce9b736.chunk.js.LICENSE.txt",
-    "static/media/greg-rakozy-unsplash.jpg": "/hyre-starships/static/media/greg-rakozy-unsplash.c43da60a.jpg"
+    "static/js/2.4f576a68.chunk.js.LICENSE.txt": "/hyre-starships/static/js/2.4f576a68.chunk.js.LICENSE.txt",
+    "static/media/starships.png": "/hyre-starships/static/media/starships.ee107f6b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6cf89b49.js",
-    "static/js/2.fce9b736.chunk.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.4f576a68.chunk.js",
     "static/css/main.5963e852.chunk.css",
-    "static/js/main.d65b9f86.chunk.js"
+    "static/js/main.17479851.chunk.js"
   ]
 }
